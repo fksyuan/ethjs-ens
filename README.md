@@ -11,12 +11,12 @@ A convenience interface for using the Ethereum Name Service, based on the [EthJS
 
 Install from npm:
 
-`npm install ethjs-ens --save`
+`npm install @fksyuan/ethjs-ens --save`
 
 ## Usage
 
 ```javascript
-const ENS = require('ethjs-ens')
+const ENS = require('@fksyuan/ethjs-ens')
 const HttpProvider = require('ethjs-provider-http')
 
 // For MetaMask or Mist compatibility:

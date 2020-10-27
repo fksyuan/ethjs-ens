@@ -1,5 +1,5 @@
 // External Deps
-const Eth = require('ethjs-query')
+const Eth = require('@fksyuan/ethjs-query')
 const EthContract = require('ethjs-contract')
 const namehash = require('eth-ens-namehash')
 

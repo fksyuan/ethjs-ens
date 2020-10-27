@@ -1,5 +1,5 @@
 {
-  "name": "ethjs-ens",
+  "name": "@fksyuan/ethjs-ens",
   "version": "2.0.1",
   "description": "An ENS interface module built on EthJS.",
   "main": "index.js",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ethjs/ethjs-ens.git"
+    "url": "git+ssh://git@github.com/fksyuan/ethjs-ens.git"
   },
   "keywords": [
-    "Ethereum",
+    "PlatON",
     "DNS",
     "ENS",
     "EthJS"
@@ -22,14 +22,14 @@
   "author": "Dan Finlay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ethjs/ethjs-ens/issues"
+    "url": "https://github.com/fksyuan/ethjs-ens/issues"
   },
-  "homepage": "https://github.com/ethjs/ethjs-ens#readme",
+  "homepage": "https://github.com/fksyuan/ethjs-ens#readme",
   "dependencies": {
     "eth-ens-namehash": "^1.0.2",
     "ethereum-ens-network-map": "^1.0.0",
     "ethjs-contract": "^0.1.7",
-    "ethjs-query": "^0.2.4"
+    "@fksyuan/ethjs-query": "^0.2.4"
   },
   "devDependencies": {
     "coveralls": "^2.12.0",
@@ -37,7 +37,7 @@
     "ethereumjs-testrpc": "^3.0.3",
     "ethjs": "^0.2.5",
     "ethjs-provider-http": "^0.1.6",
-    "ethjs-query": "^0.2.4",
+    "@fksyuan/ethjs-query": "^0.2.4",
     "istanbul": "^0.4.5",
     "sinon": "^2.1.0",
     "solc": "^0.4.9",
