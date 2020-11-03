@@ -28,8 +28,9 @@
   "dependencies": {
     "eth-ens-namehash": "^1.0.2",
     "ethereum-ens-network-map": "^1.0.0",
-    "ethjs-contract": "^0.1.7",
-    "@fksyuan/ethjs-query": "^0.2.4"
+    "@fksyuan/ethjs-contract": "^0.2.3",
+    "@fksyuan/ethereumjs-util": "^5.2.0",
+    "@fksyuan/ethjs-query": "^0.3.4"
   },
   "devDependencies": {
     "coveralls": "^2.12.0",
@@ -37,7 +38,7 @@
     "ethereumjs-testrpc": "^3.0.3",
     "ethjs": "^0.2.5",
     "ethjs-provider-http": "^0.1.6",
-    "@fksyuan/ethjs-query": "^0.2.4",
+    "@fksyuan/ethjs-query": "^0.3.4",
     "istanbul": "^0.4.5",
     "sinon": "^2.1.0",
     "solc": "^0.4.9",

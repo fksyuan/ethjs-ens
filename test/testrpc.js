@@ -2,7 +2,7 @@ const test = require('tape')
 const sinon = require('sinon')
 
 const Eth = require('ethjs-query')
-const EthContract = require('ethjs-contract')
+const EthContract = require('@fksyuan/ethjs-contract')
 const Web3 = require('web3')
 const fs = require('fs');
 const solc = require('solc');

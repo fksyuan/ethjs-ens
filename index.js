@@ -1,6 +1,6 @@
 // External Deps
 const Eth = require('@fksyuan/ethjs-query')
-const EthContract = require('ethjs-contract')
+const EthContract = require('@fksyuan/ethjs-contract')
 const namehash = require('eth-ens-namehash')
 
 // ABIs
